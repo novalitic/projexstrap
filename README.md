@@ -53,7 +53,7 @@ For Linux:
 ---
 
 ## ⚡ FastFlags
-For a list of FFlags, visit [Evil3D/Pekora-FFlags](https://github.com/Evil3D/Pekora-FFlags).
+For a list of FFlags, visit [Evil3D/Korone-FFlags](https://github.com/Evil3D/FFlags).
 
 ---
 
