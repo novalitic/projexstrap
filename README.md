@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img width="581" height="436" alt="image" src="https://i.imgur.com/UjGSiaf.png" />
+  <img width="96" height="96" alt="image" src="https://i.imgur.com/UjGSiaf.png" />
 </p>
 
 ---
