@@ -33,11 +33,6 @@
 
 <summary>With the terminal</summary>
 
-Install the required packages from the requirements.txt file by using:
-```
-pip3 install -r requirements.txt
-```
-
 Run `projexstrap.py` by executing the command:
 ```
 python3 projexstrap.py
@@ -46,7 +41,8 @@ python3 projexstrap.py
 </details>
 
 For Linux:  
-- Install [Korone](https://example.com) via [Wine](https://www.winehq.org).
+- Install [Korone](https://pekora.zip/download2) via [Wine](https://www.winehq.org).
+- Install [Projexstrap](https://github.com/novalitic/projexstrap/releases) via [Wine](https://www.winehq.org).
 
 ---
 
